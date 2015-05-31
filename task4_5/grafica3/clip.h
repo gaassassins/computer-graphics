@@ -1,0 +1,1 @@
+bool clip (point &a, point &b, point min, point max);
