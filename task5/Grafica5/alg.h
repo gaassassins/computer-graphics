@@ -1,0 +1,1 @@
+bool alg (point &a, point &b, point min, point max);
